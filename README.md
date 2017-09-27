@@ -4,14 +4,16 @@ This is a reading list for all areas related to technology that is inclusive. He
 
 ## Table of Contents
 
-#### Software
--_Object Oriented Software Engineering: A Use Case Driven Approach, 1st Edition_ by Ivar Jacobson
--_Structured Design_ by Edward Yourdon & Larry Constantine
+### Development
+- _Object Oriented Software Engineering: A Use Case Driven Approach, 1st Edition_ by Ivar Jacobson
+- _Structured Design_ by Edward Yourdon & Larry Constantine
 
-#### DevOps
+### DevOps
 
-#### Data
+### Data
 
-#### Design
+### Design
+#### Graphic Design
+#### User Experience Design
 
-#### Misc
+### Misc
