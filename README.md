@@ -14,15 +14,15 @@ Creating diverse and inclusive tech spaces is important work that is complex and
 ## Table of Contents
 
 ### Development
-- [_Practical Object-Oriented Design in Ruby (POODR)_](https://www.sandimetz.com/products/) by Sandi Metz
+#### [_Practical Object-Oriented Design in Ruby (POODR)_](https://www.sandimetz.com/products/) by Sandi Metz
 
 Level: beginner, everyone
 
 This is for people learning Ruby as well as for people who want to improve their Ruby skills and make their code more understandable.
 
-- [_99 Bottles of OOP: A Practical Guide to Object-Oriented Design_](https://www.sandimetz.com/products/) by Sandi Metz
+#### [_99 Bottles of OOP: A Practical Guide to Object-Oriented Design_](https://www.sandimetz.com/products/) by Sandi Metz
 
-Level: eginner, everyone
+Level: beginner, everyone
 
 This is for people learning how to write maintainable object-oriented code. It teaches how to know when code is "good enough," test-driven development, refactoring and altering code, and more.
 
@@ -31,7 +31,7 @@ This is for people learning how to write maintainable object-oriented code. It t
 ### Data
 
 ### Design
-- [_Design is a Job_](https://abookapart.com/products/design-is-a-job) by Mike Monteiro
+#### [_Design is a Job_](https://abookapart.com/products/design-is-a-job) by Mike Monteiro
 
 Level: everyone
 
@@ -39,14 +39,14 @@ This is for people learning how to have a quality life as a designer. This book 
 
 #### Graphic Design
 #### User Experience Design
-- [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by Erika Hall
+#### [_Just Enough Research_](https://abookapart.com/products/just-enough-research) by Erika Hall
 
 Level: beginner
 
 This is for people learning how to do quality research and discovery. It teaches how to do competitive research as well as client research, how to understand and distill your findings and specific research strategies.
 
 ### Misc
-- [_Git for Humans_](https://abookapart.com/products/git-for-humans) by David Demaree
+#### [_Git for Humans_](https://abookapart.com/products/git-for-humans) by David Demaree
 
 Level: beginner
 
