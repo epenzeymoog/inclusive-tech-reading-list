@@ -51,3 +51,4 @@ This is for people learning how to do quality research and discovery. It teaches
 Level: beginner
 
 This is for people learning how to use git and the command line. It teaches the basics of the command-line workflow, branches, repositories, writing good commit messages, and other useful skills.
+
